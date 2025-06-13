@@ -1,2 +1,7 @@
 # personality_analysis
-In this notebook analyze the personality dataset using pandas and logistic regression.
+This project analyzes personality using machine learning.
+## Metrics Used:
+- Accuracy
+- Precision
+- Recall
+- ROC-AUC
